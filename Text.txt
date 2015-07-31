@@ -1,3 +1,2 @@
 master
-slave
-Hmm really nice new to feature. 
+feature
