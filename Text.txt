@@ -1,1 +1,7 @@
 master
+<<<<<<< HEAD
+=======
+a sega de
+
+Hmm really nice new to feature.
+>>>>>>> origin/FeatureBranch
